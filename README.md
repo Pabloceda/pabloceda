@@ -1,39 +1,41 @@
-## Hi there 👋
+# Pablo Calderón de Alba 👋
 
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Banner de Perfil">
 </div>
 
 <div align="center">
-  <!-- Banner Dinámico (Capsule Render es genial para esto) -->  
-  <h1>Este es mi GitHub donde comparto mis proyectos</h1>
-  <p><i>Descubre más sobre mí</i></p>
+  <h3>Administrador de Sistemas Informáticos en Red </h3>
 </div>
 
 ---
 
 ### Sobre mí
 
-Titulado en **Administración de Sistemas Informáticos en Red** con enfoque en **Ciberseguridad**. Actualmente sigo formándome en el sector de la informática, buscando nuevas herramientas y proyectos que me permitan mejorar mis habilidades técnicas.
+Titulado en **ASIR** (Administración de Sistemas Informáticos en Red) formándome en **Ciberseguridad**.
+
+- **Logro reciente:** Desarrollo de mi TFG, un marco de seguridad integral para el sector legal.
+- **Intereses:** Hardening de sistemas, arquitecturas de red seguras basadas en Zero Trust y entornos cloud.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### 🔐 Seguridad y Monitorización (SIEM/IDS)
+#### 🔐 Seguridad y Monitorización
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </p>
 
-#### 📂 Almacenamiento e Infraestructura
+#### 📂 Infraestructura y Almacenamiento
 <p align="left">
   <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" alt="TrueNAS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
 </p>
 
-#### 📜 Automatización
+#### 📜 Automatización y Desarrollo
 <p align="left">
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -42,20 +44,22 @@ Titulado en **Administración de Sistemas Informáticos en Red** con enfoque en 
 
 ---
 
-### Contacto
+### 📂 Proyectos Destacados
+
+- **[Diseño e Implementación de Seguridad Integral](enlace-a-tu-repo):** Marco de seguridad para PYME del sector legal utilizando pfSense y hardening de servidores.
+- **[Sitio Web Personal](https://pabloceda.github.io):** Sitio personal con documentación técnica desplegado con Astro y Starlight.
+
+---
+
+### 🤝 Contacto
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="prueba.com" target="_blank">
+  <a href="TU_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <!-- Portfolio Personal -->
   <a href="https://pabloceda.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio">
   </a>
-
-  <!-- Correo Electrónico -->
-  <a href="mailto:prueba@dominio.com">
+  <a href="mailto:tu-correo@dominio.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
