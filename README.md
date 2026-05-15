@@ -19,23 +19,24 @@ Titulado en **ASIR** (Administración de Sistemas Informáticos en Red) formánd
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
+Durante el desarrollo de mi formación he trabajado con distintas herraemientas y programas como las siguientes:
 
-#### 🔐 Seguridad y Monitorización
+#### Seguridad y Monitorización
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </p>
 
-#### 📂 Infraestructura y Almacenamiento
+#### Infraestructura y Almacenamiento
 <p align="left">
   <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" alt="TrueNAS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
 </p>
 
-#### 📜 Automatización y Desarrollo
+#### Automatización y Desarrollo
 <p align="left">
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -44,14 +45,15 @@ Titulado en **ASIR** (Administración de Sistemas Informáticos en Red) formánd
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos Destacados
+Aquí dejaré algunos de mis repositorios mas destacados:
 
-- **[Diseño e Implementación de Seguridad Integral](enlace-a-tu-repo):** Marco de seguridad para PYME del sector legal utilizando pfSense y hardening de servidores.
+- **[Diseño e Implementación de Seguridad Integral](https://github.com/Pabloceda/Plantilla_TFG_Final.git):** Marco de seguridad para PYME del sector legal utilizando pfSense y hardening de servidores.
 - **[Sitio Web Personal](https://pabloceda.github.io):** Sitio personal con documentación técnica desplegado con Astro y Starlight.
 
 ---
 
-### 🤝 Contacto
+### Contacto
 <p align="left">
   <a href="TU_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
